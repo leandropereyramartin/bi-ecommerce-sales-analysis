@@ -45,7 +45,6 @@ Instead of working off a single flat table, the data was structured as a small r
 Google Sheets (data modeling, cleaning, ETL), Looker Studio (dashboard), Google Slides (storytelling report).
 
 ## 📊 Live Dashboard
-
 [View the interactive dashboard on Looker Studio](https://datastudio.google.com/reporting/111fedff-65a8-4c5c-9ce2-18195cdd7fac)
 
 ## ⚖️ Ethics & Data Use
